@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/rayswarm_all_engines/version"
+require_relative "lib/service_all_engines/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "rayswarm-all-engines"
-  spec.version = RayswarmAllEngines::VERSION
+  spec.name = "service-all-engines"
+  spec.version = ServiceAllEngines::VERSION
   spec.authors = ["Eric Laquer"]
   spec.email = ["LaquerEric@gmail.com"]
 
